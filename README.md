@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abimaeldcm
-- 👀 I’m interested in ...
+- 👀 I’m interested in entra no mundo da programação.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me abimaelmends@hotmail.com
