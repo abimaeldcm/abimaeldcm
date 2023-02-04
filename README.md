@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abimaeldcm
 - 👀 I’m interested in entra no mundo da programação.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning Python e C#/.Net
+- 💞️ I’m looking to collaborate on Python e C#/.Net 
 - 📫 How to reach me abimaelmends@hotmail.com
 
 <!---
