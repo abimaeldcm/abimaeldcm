@@ -4,7 +4,7 @@ Olá! Seja bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor web com exper
 
 ## Contato
 
-- Email: abimaelmends@hotmail.com
+- E-mail: abimaelmends@hotmail.com
 
 ## Formação Acadêmica
 
