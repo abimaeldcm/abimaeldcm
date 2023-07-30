@@ -3,7 +3,9 @@
 👀 Estou interessado em entrar no mundo da programação.
 
 🌱 Atualmente estou aprendendo Python e C#/.Net
+
 💞️ Procuro colaboração em Python e C#/.Net
+
 📫 Como me contatar abimaelmends@hotmail.com
 
 <!---
