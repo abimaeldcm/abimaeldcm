@@ -16,7 +16,8 @@ Abaixo estão algumas das tecnologias e ferramentas com as quais tenho experiên
 
 - ASP.NET MVC
 - C#
-- Python .Net
+- Python
+- .Net
 - SQL Server
 - Git
 - Visual Studio
@@ -26,8 +27,9 @@ Abaixo estão algumas das tecnologias e ferramentas com as quais tenho experiên
 Aqui estão alguns dos meus projetos destacados hospedados no GitHub:
 
 1. [Controle de Contatos](https://github.com/abimaeldcm/ControleDeContatos)
-2. [Sistema de Registro](https://github.com/abimaeldcm/SalesWebMVCC)
-3. [Calculadora_Entrega_Facil ](https://github.com/abimaeldcm/Calculadora_Entrega_Facil)
+2. [Controle de Jornada](https://github.com/abimaeldcm/SistemaDePonto)
+3. [Sistema de Registro](https://github.com/abimaeldcm/SalesWebMVCC)
+4. [Calculadora_Entrega_Facil ](https://github.com/abimaeldcm/Calculadora_Entrega_Facil)
 
 <!---
 abimaeldcm/abimaeldcm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
