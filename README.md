@@ -1,6 +1,6 @@
 # Abimael Mendes - Desenvolvedor Web
 
-Olá! Seja bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor web com experiência em ASP.NET, C#, MVC e API Python .Net. 
+Olá! Seja bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor web com experiência em ASP.NET, C#, MVC, API, Python e .Net. 
 
 ## Contato
 
